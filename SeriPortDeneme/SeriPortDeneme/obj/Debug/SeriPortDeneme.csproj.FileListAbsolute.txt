@@ -1,0 +1,11 @@
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\bin\Debug\SeriPortDeneme.exe.config
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\bin\Debug\SeriPortDeneme.exe
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\bin\Debug\SeriPortDeneme.pdb
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\obj\Debug\SeriPortDeneme.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\obj\Debug\SeriPortDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\obj\Debug\SeriPortDeneme.Form1.resources
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\obj\Debug\SeriPortDeneme.Properties.Resources.resources
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\obj\Debug\SeriPortDeneme.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\obj\Debug\SeriPortDeneme.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\obj\Debug\SeriPortDeneme.exe
+C:\Users\alper\Desktop\csharp\SeriPortDeneme\SeriPortDeneme\obj\Debug\SeriPortDeneme.pdb
